@@ -1,1 +1,5 @@
-### Backbone + RequireJs
+# Student manager
+
+### Description
+* Backbone
+* RequireJs
