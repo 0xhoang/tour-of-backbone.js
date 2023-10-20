@@ -1,7 +1,7 @@
-# Backbone-application
+# Tour of BackboneJs
 
-Build student manager application with backbone
+Build application with backbone.js
 
-### Description
+# Description
 * Backbone
 * RequireJs
