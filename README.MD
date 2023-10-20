@@ -1,6 +1,6 @@
 # Tour of BackboneJs
 
-Build application with backbone.js
+Build application with BackboneJs
 
 # Description
 * Backbone
